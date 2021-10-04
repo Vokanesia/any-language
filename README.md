@@ -1,14 +1,14 @@
 
+
 <div align="centre">
     <b>dont contribute in this repo, contribute only in below mentioned repo</b>
 </div>
 
 # Special Note For Everyone
+<b>Just creating "hello world" in any languages.</b>
 ```py
 '''
 always make more then 4 pull request
-just creating hello world in any languages
-
 keep in mind that repo has hacktoberfest topic..
 '''
 ```
@@ -59,7 +59,10 @@ Steps for adding your name below
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-
+<table>
+<tr><td align="center"><a href="https://github.com/alfaben12"><kbd><img src="https://avatars.githubusercontent.com/u/20008086?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Thariq Alfa</b></sub></a><br /><a href="https://github.com/alfaben12" title="Code"> :computer: </a> </td>
+</tr>
+</table>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
